@@ -46,7 +46,7 @@ public class MainFragment extends Fragment {
         recyclerView.addOnItemTouchListener(new RecyclerViewTouchListener(getContext(), recyclerView, new RecyclerViewClickListener() {
             @Override
             public void onClick(View view, int position) {
-                //
+                
             }
 
             @Override
